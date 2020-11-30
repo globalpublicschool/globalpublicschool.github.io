@@ -1,5 +1,5 @@
 .navbar {
-  box-shadow: 2px 2px 5px #3292a6;
+  box-shadow: 2px 2px 5px #8600f4;
   opacity: 0.9;
   background-color: #fff; }
   .navbar .nav-item {
@@ -16,7 +16,7 @@ body {
   background-size: cover;
   min-height: 600px; }
   #home .primary-overlay {
-    background-color: rgba(50, 146, 166, 0.8);
+    background-color: rgba(134, 0, 244, 0.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -27,3 +27,5 @@ body {
     background-color: #fff;
     padding: 10px;
     border-radius: 10px; }
+
+/*# sourceMappingURL=style.css.map */
